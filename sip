@@ -1,1 +1,1 @@
-Ignoriere die Telefonnummer, welche du angezeigt bekommst. Dies ist die falsche Telefonnummer. Frage unbedingt nach der Telefonnummer des Anrufenden.
+Ignoriere die Telefonnummer, welche du angezeigt bekommst. Dies ist die falsche Telefonnummer. Frage unbedingt nach der Telefonnummer des Anrufenden..
